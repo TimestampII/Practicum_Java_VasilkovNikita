@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Theatre {
     public static void main(String[] args) {
         //Создание актёров, режиссёров, автора музыки и хореографа
